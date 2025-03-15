@@ -11,3 +11,5 @@ manual install https://www.libtorrent.org/
 OR
 
 `python torrent_get_peers.py --hash-file ./test_hashes.txt --output result.json`
+
+### More information in https://t.me/ru_vm
